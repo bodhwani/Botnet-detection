@@ -12,8 +12,6 @@ This project implements a novel method to detect botnet based network intrusion 
 5. Gaussian Naive Bayes
 6. K Nearest Neighbours.
 
-I am also currently working on a paper reflecting my works on this project. I would soon publish it here.
-
 <b> Dataset Used </b>
 
 This project uses the CTU-13 dataset which involves 13 scenarios of lablled network traffic data with normal and botnet traffic. This project uses the scenario 1 to train and test the various models.
@@ -35,6 +33,4 @@ To test the model, run the script.py file in the Machine-Learning-Based-Botnet-D
 <b>     cd src<br>
         python gui_develop.py</b>
 
-<b> Credits </b>
 
-I am thankful to Infosys for providing me the opportunity to excel in this internship based project through the InStep Global Internship Program. I would also like to thank my mentor Vijayaraghavan Varadharajan for providing helpful insights into this project.
